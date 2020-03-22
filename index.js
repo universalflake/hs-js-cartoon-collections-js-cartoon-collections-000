@@ -1,5 +1,5 @@
 function dwarfRollCall(dwarves) {
-  for (i<) {
+  for (i<length.dwarves) {
     
   }
   return ([i+1]". " dwarves[i])
